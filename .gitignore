@@ -1,0 +1,10 @@
+node_modules/
+.env
+store.json
+.vscode/
+rag/store.json
+# Archives locales : RAG.zip contient une copie du .env
+*.zip
+
+# Base vectorielle locale
+chroma_data/
